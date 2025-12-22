@@ -12,7 +12,8 @@
 
 ## 📂 Projects
 
-- 🗜️ [Archiver](https://github.com/Jeyd0/archiver) - Windows app for compressing/extracting archives
+- �️ [Online Voting](https://github.com/Jeyd0/online-voting) - Online voting system
+- �🗜️ [Archiver](https://github.com/Jeyd0/archiver) - Windows app for compressing/extracting archives
 - 🚪 [Gate Automation IoT](https://github.com/Jeyd0/gate-automation-IoT) - IoT gate automation system
 - 📦 [Python Inventory](https://github.com/Jeyd0/Python-Inventory) - Inventory management system
 
