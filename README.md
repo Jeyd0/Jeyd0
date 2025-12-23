@@ -25,7 +25,7 @@
 
 ## 📊 Stats & Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeyd0&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeyd0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
