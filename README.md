@@ -23,7 +23,9 @@
 - 🚪 [Gate Automation IoT](https://github.com/Jeyd0/gate-automation-IoT) - Arduino-powered gate automation system
 - 📦 [Python Inventory](https://github.com/Jeyd0/Python-Inventory) - Flask + MySQL inventory manager
 
-## 📊 Top Languages
+## 📊 Stats & Top Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeyd0&show_icons=true&theme=dark&hide_border=true)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
